@@ -8,7 +8,7 @@ Grupo en Telegram https://t.me/Pen7esting
 
 simple script que mira los shares NFS y crea una llave para conectarse via ssh.
 
-
+![NFS_PORT_2049](https://user-images.githubusercontent.com/67207446/144342505-a9676704-711e-44da-8298-0ba1f62c4478.png)
 
 ## Instalacion y Uso
 
