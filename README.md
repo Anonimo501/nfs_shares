@@ -16,6 +16,6 @@ git clone https://github.com/Anonimo501/nfs_shares.git
 
 cd nfs_shares
 
-chmod +x 
+chmod +x nfs_port_2049.sh
 
-./
+./nfs_port_2049.sh
