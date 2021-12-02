@@ -8,6 +8,14 @@ Grupo en Telegram https://t.me/Pen7esting
 
 simple script que mira los shares NFS y crea una llave para conectarse via ssh.
 
+
+
 ## Instalacion y Uso
 
-git clone 
+git clone https://github.com/Anonimo501/nfs_shares.git
+
+cd nfs_shares
+
+chmod +x 
+
+./
