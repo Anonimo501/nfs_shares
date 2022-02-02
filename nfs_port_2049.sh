@@ -36,6 +36,7 @@ mkdir /tmp/r00t
 echo ""
 echo -e "\e[31m	Ingrese el resultado del showmount \e[0m"
 echo ""
+read showmount
 
 mount -t nfs $ip:$showmount /tmp/r00t
 cat ~/.ssh/id_rsa.pub >> /tmp/r00t/root/.ssh/authorized_keys
